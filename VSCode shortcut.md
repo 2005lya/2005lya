@@ -4,37 +4,37 @@
 2. Open your projects: code + file name
 3. toggle index tabs: alt + number (win)
                   opt + number (mac)
-toggle mutiple tabs: ctrl + p (win)
+4. toggle mutiple tabs: ctrl + p (win)
                      cmd + p (mac)
-close tabs: ctrl + w
-close all tabs:  ctrl + k + w (win)
+5. close tabs: ctrl + w
+6. close all tabs:  ctrl + k + w (win)
                  cmd + k + w (mac)
-toggle sidebar: ctrl + b (win)
+7. toggle sidebar: ctrl + b (win)
                 cmd + b (mac)
-split screen: ctrl + \ (win)
+8. split screen: ctrl + \ (win)
               cmd + \ (mac)
-toggle slices: ctrl + number (win)
-clear the terminal: clear
-skip word blocks: ctrl+ arrows
-select characters(one by one): shift + arrows
-select blocks: ctrl + shift + arrows
-delete(cut) the line : ctrl + x
-cope the line: ctrl + c
-togge comment: ctrl + / (win)
+9. toggle slices: ctrl + number (win)
+10. clear the terminal: clear
+11. skip word blocks: ctrl+ arrows
+12. select characters(one by one): shift + arrows
+13. select blocks: ctrl + shift + arrows
+14. delete(cut) the line : ctrl + x
+15. cope the line: ctrl + c
+16. togge comment: ctrl + / (win)
                cmd + / (mac)
-dublicate line or selected lines: alt + shift + arrow (up/down) (win)
+17. dublicate line or selected lines: alt + shift + arrow (up/down) (win)
                                   option + shift + arrow(up/down) (mac)
-find and replace: ctrl + h (win)
+18. find and replace: ctrl + h (win)
                   cmd + h (mac)
-find next match: ctrl + d (win)
+19. find next match: ctrl + d (win)
                  cmd + d(mac)
-select different lines: alt + click (win)
+20. select different lines: alt + click (win)
                         option + click (mac)
-move the line or selected block: alt + arrow(up/down) (win)
+21. move the line or selected block: alt + arrow(up/down) (win)
                                  option + arrow(up/down) (mac)
-go to symbol: ctrl + shift + o (win)
+22. go to symbol: ctrl + shift + o (win)
               cmd + shift + 0 (mac)
-find line: ctrl + g (win)
+23. find line: ctrl + g (win)
            cmd + g (mac)
            
                                   
