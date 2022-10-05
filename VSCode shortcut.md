@@ -3,7 +3,7 @@
 1. Open terminal: ctr + `
 2. Open your projects: code + file name
 3. Toggle index tabs: alt + number (win)
-                  opt + number (mac)
+                  - opt + number (mac)
 4. Toggle mutiple tabs: ctrl + p (win)
                      cmd + p (mac)
 5. Close tabs: ctrl + w
