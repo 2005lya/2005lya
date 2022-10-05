@@ -2,15 +2,15 @@
 
 1. **Open terminal**: `ctr + ``
 2. **Open your projects**: `code + file name`
-3. **Toggle index tabs**: -`alt + number (win)`
-                  -`opt + number (mac)`
-4. **Toggle mutiple tabs**: ctrl + p (win)
-                    -cmd + p (mac)
-5. **Close tabs**: ctrl + w
-6. **Close all tabs**:  ctrl + k + w (win)
-                 -cmd + k + w (mac)
-7. **Toggle sidebar**: ctrl + b (win)
-                cmd + b (mac)
+3. **Toggle index tabs**: `alt + number (win)`
+                  `opt + number (mac)`
+4. **Toggle mutiple tabs**: `ctrl + p` (win)
+                    `cmd + p` (mac)
+5. **Close tabs**: `ctrl + w`
+6. **Close all tabs**:  `ctrl + k + w` (win)
+                 `cmd + k + w` (mac)
+7. **Toggle sidebar**: `ctrl + b` (win)
+                `cmd + b` (mac)
 8. **Split screen**: ctrl + \ (win)
               cmd + \ (mac)
 9. **Toggle slices**: ctrl + number (win)
