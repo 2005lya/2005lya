@@ -15,14 +15,14 @@
               cmd + \ (mac)
 9. **Toggle slices**: ctrl + number (win)
 10. **Clear the terminal**: clear
-11. ** Skip word blocks**: ctrl+ arrows
+11. **Skip word blocks**: ctrl+ arrows
 12. **Select characters(one by one)**: shift + arrows
 13. **Select blocks**: ctrl + shift + arrows
 14. **Delete(cut) the line** : ctrl + x
 15. **Cope the line**: ctrl + c
-16. ** Toggle comment**: ctrl + / (win)
+16. **Toggle comment**: ctrl + / (win)
                cmd + / (mac)
-17. ** Dublicate line or selected lines**: alt + shift + arrow (up/down) (win)
+17. **Dublicate line or selected lines**: alt + shift + arrow (up/down) (win)
                                   option + shift + arrow(up/down) (mac)
 18. **Find and replace**: ctrl + h (win)
                   cmd + h (mac)
@@ -34,7 +34,7 @@
                                  option + arrow(up/down) (mac)
 22. **Go to symbol**: ctrl + shift + o (win)
               cmd + shift + 0 (mac)
-23. ** Find line**: ctrl + g (win)
+23. **Find line**: ctrl + g (win)
            cmd + g (mac)
            
                                   
