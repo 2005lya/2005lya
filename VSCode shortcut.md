@@ -1,8 +1,8 @@
-VSCode shortcuts tips and tricks
+# VSCode shortcuts tips and tricks
 
-Open terminal: ctr + `
-Open your projects: code + file name
-toggle index tabs: alt + number (win)
+1. Open terminal: ctr + `
+2. Open your projects: code + file name
+3. toggle index tabs: alt + number (win)
                   opt + number (mac)
 toggle mutiple tabs: ctrl + p (win)
                      cmd + p (mac)
