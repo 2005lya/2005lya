@@ -11,7 +11,7 @@
 
 ### 📁 REcent Project
 
-1. My Personal Portfolio 
+1. [My Personal Portfolio](https://github.com/2005lya/Frontend/tree/main/projects/AwesomeProject) 
 2. News Mobile App Built with React Native
 3. Blog Website Built with React
 4. E-Commerce Product Page Built with Vue.js
