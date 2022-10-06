@@ -8,3 +8,8 @@
 ### 📚 All Skills
 
 ![](https://skillicons.dev/icons?perline=15&i=react,redux,javascript,typescript,css,html,vue,nodejs,jquery,bootstrap,github,git,vscode,python,java,mongo,mysql,md,nginx)
+
+### 🦁 Top Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2005lya&layout=compact&theme=dark)
+
