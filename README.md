@@ -7,4 +7,4 @@
 
 ### 📚 All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=react,redux,javascript,typescript,css,html,github,gitlab,git,twitter,stackoverflow,vercel,figma,vscode,idea,vim,atom,js,ts,html,css,c,bootstrap,jquery,nodejs,python,java,react,vue,tailwind,spring,nextjs,maven,mongo,redis,mysql,fastapi,flask,md,regex,aws,azure,linux,bash,docker,kubernetes,ansible,grafana,prometheus,nginx,jenkins)
+![](https://skillicons.dev/icons?perline=15&i=react,redux,javascript,typescript,css,html,vue,nodejs,jquery,bootstrap,github,git,vscode,python,java,mongo,mysql,md,nginx)
