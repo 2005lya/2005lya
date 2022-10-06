@@ -9,7 +9,7 @@
 
 ![](https://skillicons.dev/icons?perline=15&i=react,redux,javascript,typescript,css,html,vue,nodejs,jquery,bootstrap,github,git,vscode,python,java,mongo,mysql,md,nginx)
 
-### 📁 REcent Project
+### 📁 Recent Projects
 
 1. [My Personal Portfolio](http://mycubes.co.nz) 
 2. [News Mobile App Built with React Native](https://github.com/2005lya/Frontend/tree/main/projects/AwesomeProject)
