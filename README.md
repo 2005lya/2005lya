@@ -7,4 +7,4 @@
 
 ### 📚 All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=react,redux,javascript,typescript,css,html,vue,nodejs,jquery,bootstrap,github,git,vscode,python,java,mongo,mysql,md,nginx,ml)
+![](https://skillicons.dev/icons?perline=15&i=react,redux,javascript,typescript,css,html,vue,nodejs,jquery,bootstrap,github,git,vscode,python,java,mongo,mysql,md,nginx)
