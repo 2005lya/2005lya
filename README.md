@@ -9,6 +9,14 @@
 
 ![](https://skillicons.dev/icons?perline=15&i=react,redux,javascript,typescript,css,html,vue,nodejs,jquery,bootstrap,github,git,vscode,python,java,mongo,mysql,md,nginx)
 
+### 📁 REcent Project
+
+1. My Personal Portfolio 
+2. News Mobile App Built with React Native
+3. Blog Website Built with React
+4. E-Commerce Product Page Built with Vue.js
+5. State Border Built with React
+
 ### 💻 Activity Graph
 
 ![](https://activity-graph.herokuapp.com/graph?username=2005lya&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
