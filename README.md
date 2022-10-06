@@ -11,9 +11,9 @@
 
 ### 📁 REcent Project
 
-1. [My Personal Portfolio](https://github.com/2005lya/Frontend/tree/main/projects/AwesomeProject) 
-2. News Mobile App Built with React Native
-3. Blog Website Built with React
+1. [My Personal Portfolio](http://mycubes.co.nz) 
+2. [News Mobile App Built with React Native](https://github.com/2005lya/Frontend/tree/main/projects/AwesomeProject)
+3. [Blog Website Built with React](https://github.com/2005lya/Frontend/tree/main/projects/myblog)
 4. E-Commerce Product Page Built with Vue.js
 5. State Border Built with React
 
